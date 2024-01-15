@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "897048954321",
+    "project_id": "ejemplofirebase-2bc08",
+    "storage_bucket": "ejemplofirebase-2bc08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897048954321:android:4d099bb03b72a4b7778cf0",
+        "android_client_info": {
+          "package_name": "francisco.illa.ejemplofirebaseandroid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXit9849VnlqL1r9pHZOPRD2OC4yNY-o4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
